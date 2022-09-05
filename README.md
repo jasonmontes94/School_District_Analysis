@@ -7,20 +7,24 @@ We were tasked by Maria, an employee of a school district, to gather and analyze
 
 *How is the district summary affected?*
 The district summary from before the changes we made showed slightly higher passing percentages for both reading and math. Below is the data from the original analysis:
-![district_summary.png](/Resources/district_summary.png)
+
+![disctrict_summary.png](/Resources/disctrict_summary.png)
 
 Compared to the new analysis with the replacement of THS ninth grader data:
-![district_summary_challenge](/Resources/district_summary.png)
+
+![district_summary_challenge](/Resources/district_summary_challenge.png)
 
 Comparing the two data frames, we can also see the decrease in the the total number of students since we had removed the ninth-graders from THS.
 
 *How is the school summary affected?*
 
 In the original data frame for the school summary, Thomas High School had a slightly higher overall passing percentage for all students with 90.95%:
-![THS_school_summary.png](/Resources/THS_summary.png)
+
+![THS_school_summary.png](/Resources/THS_school_summary.png)
 
 After replacing the ninth grade date however, the overall passing percentage for all students became 90.63%:
-![THS__school_summary_Challenge.png](/Resources/THS_summary_Challenge.png)
+
+![THS__school_summary_Challenge.png](/Resources/THS_school_summary_Challenge.png)
 
 *How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?*
 
